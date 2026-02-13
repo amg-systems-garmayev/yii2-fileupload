@@ -1,0 +1,23 @@
+/* fileupload/assets/css/uploader.css */
+
+.file-upload-widget .upload-container {
+    margin-top: 10px;
+}
+
+.file-upload-widget .preview-container img {
+    max-height: 200px;
+    object-fit: contain;
+}
+
+.file-upload-widget .progress {
+    height: 20px;
+}
+
+.cropper-container {
+    max-height: 500px;
+    overflow: hidden;
+}
+
+.cropper-container img {
+    max-width: 100%;
+}
