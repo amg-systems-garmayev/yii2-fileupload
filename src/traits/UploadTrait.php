@@ -1,7 +1,7 @@
 <?php
 // fileupload/traits/UploadTrait.php
 
-namespace vendor\fileupload\traits;
+namespace garmayev\fileupload\traits;
 
 use Yii;
 use yii\web\UploadedFile;
